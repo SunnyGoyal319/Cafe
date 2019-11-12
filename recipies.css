@@ -1,0 +1,35 @@
+body{
+    background-color: mintcream;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+a{
+    color: aliceblue;
+}
+a:link{
+    text-decoration: none;
+    padding: 5px 10px;
+}
+a:hover{
+    text-decoration: underline;
+    color:rgb(246, 250, 0);
+}
+td,th{
+    height: 50px;
+    padding: 15px;
+}
+img:hover{
+    box-shadow:10px 10px 20px rgba(247, 243, 4, 0.685);
+}
+fieldset{
+    border:2px solid rgb(150, 75, 5);
+    border-radius: 12px;
+    box-shadow: 10px 10px 20px rgb(150, 75, 5);
+    background-image: url("bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: rgb(214, 218, 0);
+    text-shadow: 5px 5px 10px rgb(214, 144, 75);
+}
